@@ -22,7 +22,7 @@ To use the Website Health Checker, you can either compile the source code yourse
    ```
 5. Compile the source code to generate the executable.
    ```
-   go build -o website_checker.exe
+   go build -o WUD.exe
    ```
 
 ### Using Precompiled Executable
