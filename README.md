@@ -14,11 +14,11 @@ To use the Website Health Checker, you can either compile the source code yourse
 1. Make sure you have Go installed on your system. If not, you can download and install it from [the official Go website]([(https://go.dev/)]).
 2. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/website-health-checker.git
+   git clone https://github.com/nishantnz/go-sitestatus
    ```
 3. Navigate to the project directory.
    ```
-   cd website-health-checker
+   cd go-sitestatus
    ```
 5. Compile the source code to generate the executable.
    ```
