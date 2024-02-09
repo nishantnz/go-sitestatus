@@ -27,7 +27,7 @@ To use the Website Health Checker, you can either compile the source code yourse
 
 ### Using Precompiled Executable
 
-1. Download the precompiled executable for your platform from the [Releases](https://github.com/nishantnz/go-sitestatus/releases/tag/v.1) page.
+1. Download the precompiled executable(WUD.exe) for your platform from the [Releases](https://github.com/nishantnz/go-sitestatus/releases/tag/v.1) page.
 
 ## Usage
 
